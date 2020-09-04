@@ -259,11 +259,16 @@ span.banner_text_w3ls {
     margin-top: -140px;
     border-radius: 30px;
     padding: 2em;
+    min-height: max-content;
 }
 
 .wthree-inner-sec.skills-bg {
     background: #1d1c1b url(../images/skills.jpg) no-repeat center;
     background-size: cover;
+}
+
+.wthree-inner-sec.port-bg {
+    min-height: max-content;
 }
 
 .sec-head {
@@ -1039,6 +1044,11 @@ input[type=range]::-ms-track {
     }
     .portfolio-area li {
         max-width: 500px;
+        height: max-content;
+    }
+    .portfolio-area h2 {
+        max-width: 500px;
+        height: max-content;
     }
 }
 
@@ -1103,6 +1113,11 @@ input[type=range]::-ms-track {
     }
     .portfolio-area li {
         max-width: 500px;
+        height: max-content;
+    }
+    .portfolio-area h2 {
+        max-width: 500px;
+        height: max-content;
     }
     .layer {
         padding: 34vw 0 0;
@@ -1116,7 +1131,7 @@ input[type=range]::-ms-track {
     .wthree-inner-sec {
         margin-top: -90px;
         padding: 1.5em;
-        min-height: fit-content;
+        min-height: max-content;
     }
     .service-txt h5 {
         font-size: 1.6em;
@@ -1155,6 +1170,7 @@ input[type=range]::-ms-track {
     .wthree-inner-sec {
         margin-top: -90px;
         padding: 1em;
+        min-height: max-content;
     }
     .bar-group {
         margin: 0 0 0 30px;
@@ -1173,6 +1189,7 @@ input[type=range]::-ms-track {
     }
     .portfolio-area li {
         max-width: 500px;
+        height: max-content;
     }
     .portfolio-categ li {
         margin: 0.4em 0.4em 0.4em 0;
@@ -1209,6 +1226,7 @@ input[type=range]::-ms-track {
     }
     .portfolio-area li {
         max-width: 500px;
+        height: max-content;
     }
     .layer {
         padding: 58vw 3vw 0;
@@ -1244,6 +1262,11 @@ input[type=range]::-ms-track {
     }
     .portfolio-area li {
         max-width: 500px;
+        height: max-content;
+    }
+    .portfolio-area h2 {
+        max-width: 500px;
+        height: max-content;
     }
     .banner_text_wthree h1,
     .banner_text_wthree h2 {
