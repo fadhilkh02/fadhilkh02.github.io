@@ -246,6 +246,10 @@ span.banner_text_w3ls {
     min-height: 180px;
     margin-bottom: 150px;
 }
+.inner-banner-agile.banner-port1 {
+    background: #07477a;
+    min-height: 180px;
+}
 
 .inner-banner-agile.services {
     background: #086591;
