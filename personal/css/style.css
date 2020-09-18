@@ -244,7 +244,7 @@ span.banner_text_w3ls {
 .inner-banner-agile.banner-port {
     background: #07477a;
     min-height: 180px;
-    margin-bottom : 100px;
+    margin-bottom: 100px;
 }
 
 .inner-banner-agile.services {
@@ -270,7 +270,7 @@ span.banner_text_w3ls {
 }
 
 .wthree-inner-sec.port-bg {
-    min-height: max-content;
+    padding-top: 50px;
 }
 
 .sec-head {
